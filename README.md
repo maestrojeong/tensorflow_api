@@ -2,6 +2,9 @@
     *tensorflow 0.12* will not be updated 
     *tensorflow 1.0* will be updated continuously
     Summarized with series of implementation
+    -tf.sqrt
+    -tf.tile
+    -Division
     -tf.group
     -tf.train.ExponentialMovingAverage
     -tf.reduce_sum
