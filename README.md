@@ -26,6 +26,8 @@
     -tf.nn.conv2d_transpose
     -tf.nn.conv2d
     -tf.concat
+    -tf.exp
+    -tf.nn.softmax
     -tf.nn.sigmoid_cross_entroy_with_logits
     -normalize with tf.reduce_mean
     -tf.get_shape(), tf.get_shape.as_list()
