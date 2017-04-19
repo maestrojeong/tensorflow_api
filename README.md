@@ -2,6 +2,9 @@
     *tensorflow 0.12* will not be updated 
     *tensorflow 1.0* will be updated continuously
     Summarized with series of implementation
+    -tf.nn.xw_plus_b
+    -tf.nn.embedding_lookup
+    -tf.exp
     -tf.sqrt
     -tf.tile
     -Division
@@ -33,7 +36,8 @@
     -tf.nn.softmax
     -tf.nn.sigmoid_cross_entroy_with_logits
     -normalize with tf.reduce_mean
-    -tf.get_shape(), tf.get_shape.as_list()
+    -get_shape(), get_shape.ndims, get_shape.as_list()
+    -tf.shape() v.s get_shape()
     -tf.tile()
     -tf.expand_dims()
     -tf.stack, tf.unstack, tf.split
