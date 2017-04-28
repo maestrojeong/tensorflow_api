@@ -1,11 +1,12 @@
 # How to use tensorflow api
-~~~
-*tensorflow 0.12* will not be updated, and deprecated.
-*tensorflow 1.0* will be updated continuously
-Everything was implemented on jupyter notebook.
-You can see these also with <http://nbviewer.jupyter.org/>
-~~~
+
+> **tensorflow 0.12** will not be updated, and deprecated.
+> **tensorflow 1.0** will be updated continuously
+> Everything was implemented on jupyter notebook.
+> You can see these also with <http://nbviewer.jupyter.org/>
+
 # The apis implemented in here
+~~~
     Summarized with series of implementation in dir **tensorflow 1.0**
     -tf.get_variable v.s. tf.variable
     -tf.control_dependencies
@@ -48,3 +49,4 @@ You can see these also with <http://nbviewer.jupyter.org/>
     -tf.expand_dims()
     -tf.stack, tf.unstack, tf.split
     -tf.split
+~~~
