@@ -8,11 +8,14 @@
 # The apis implemented in here
 ~~~
     Summarized with series of implementation in dir **tensorflow 1.0**
+    -tf.gradients
+    -tf.stop_gradient
     -tf.get_variable v.s. tf.variable
     -tf.control_dependencies
     -tf.train.exponential_decay() and global_step
     -tf.train.ExponentialMovingAverage
     -tf.add
+    -tf.matmul v.s. tf.multiply
     -tf.multiply
     -tf.div
     -tf.exp
@@ -28,6 +31,7 @@
     -tf.random_uniform
     -tf.sign
     -tf.nn.moments
+    -tf.size, tf.rank
     -tf.range, tf.size, tf.gather
     -tf.assign
     -tf.get_default_graph
