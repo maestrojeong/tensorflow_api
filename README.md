@@ -30,6 +30,7 @@
     -tf.ones
     -tf.random_uniform
     -tf.sign
+    -tf.floor
     -tf.nn.moments
     -tf.size, tf.rank
     -tf.range, tf.size, tf.gather
