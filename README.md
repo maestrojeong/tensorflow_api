@@ -1,9 +1,9 @@
 # How to use tensorflow api
 
-> **tensorflow 0.12** will not be updated, and deprecated.
-> **tensorflow 1.0** will be updated continuously
-> Everything was implemented on jupyter notebook.
-> You can see these also with <http://nbviewer.jupyter.org/>
+> **tensorflow 0.12** will not be updated, and deprecated.  
+> **tensorflow 1.0** will be updated continuously  
+> Everything was implemented on jupyter notebook.  
+> You can see these also with <http://nbviewer.jupyter.org/>  
 
 # The apis implemented in here
 ~~~
