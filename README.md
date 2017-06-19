@@ -21,6 +21,7 @@
     -tf.exp
     -tf.sqrt
     -tf.one_hot
+    -tf.nn.dropout
     -tf.nn.xw_plus_b
     -tf.nn.embedding_lookup
     -tf.group
