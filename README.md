@@ -14,6 +14,7 @@
     -tf.train.exponential_decay() and global_step
     -tf.train.ExponentialMovingAverage
     -tf.add
+    -tf.add_n
     -tf.scatter_add
     -tf.matmul v.s. tf.multiply
     -tf.multiply
