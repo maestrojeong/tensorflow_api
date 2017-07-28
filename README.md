@@ -27,6 +27,7 @@
     -tf.nn.embedding_lookup
     -tf.group
     -tf.reduce_sum
+    -tf.norm
     -tf.cast
     -tf.argmax
     -tf.ones
