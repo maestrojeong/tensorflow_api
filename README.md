@@ -35,6 +35,7 @@
     -tf.sign
     -tf.floor
     -tf.nn.moments
+    -tf.nn.top_k
     -tf.size, tf.rank
     -tf.range, tf.size, tf.gather
     -tf.assign
